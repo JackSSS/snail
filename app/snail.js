@@ -9,7 +9,7 @@ $(document).ready(function() {
     
 
 
-    // calculate snail success of fail
+    // calculate snail success or fail
 
     $("#snailClimb").click(function(){
     var h = $("#h").val();
